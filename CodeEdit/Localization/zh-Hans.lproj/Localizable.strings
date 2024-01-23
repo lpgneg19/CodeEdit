@@ -1,0 +1,132 @@
+
+/* Project Navigator Item */
+"Add File" = "添加文件";
+
+/* Leading Sidebar Toolbar */
+"Alphabetically" = "按字母顺序";
+
+/* Settings - Appearance */
+"Appearance" = "外观";
+
+
+"Clone an existing project" = "复制现有项目";
+
+
+"CodeEdit cannot open this file because its file type is not supported." = "CodeEdit 无法打开此文件，因为不支持其文件类型。";
+
+
+"Color" = "颜色";
+
+
+"Copy Path" = "复制路径";
+
+
+"Copy Path" = "Copy Path";
+
+/* Welcome Screen - New File */
+"Create a new file" = "新建文件";
+
+
+"Custom" = "定制";
+
+
+"Dark" = "深色";
+
+/* Settings - Default Tab Width */
+"Default Tab Width" = "默认标签宽度";
+
+/* Settings - Editor Theme */
+"Editor Theme" = "编辑主题";
+
+/* Settings - File Icon Style */
+"File Icon Style" = "文件图标样式";
+
+/* Inspector Sidebar */
+"File Inspector" = "文件检查器";
+
+
+"Folders on top" = "顶部文件夹";
+
+/* Settings - General Tab */
+"General" = "一般";
+
+
+"Hello, world!" = "你好，世界！";
+
+
+"History Inspector" = "历史记录检查器";
+
+
+"Light" = "浅色";
+
+
+"Monochrome" = "单色模式";
+
+
+"New Document" = "新文件";
+
+
+"No Recent Projects" = "无近期项目";
+
+
+"Not implemented yet" = "尚未实施";
+
+
+"Open Panel" = "打开面板";
+
+/* Welcome Screen - Open File */
+"Open a file or folder" = "打开文件或文件夹";
+
+
+"Open an existing file or folder on your Mac" = "打开 Mac 上的现有文件或文件夹";
+
+/* Editor Screen */
+"Open file from sidebar" = "从侧边栏打开文件";
+
+
+"Quick Help Inspector" = "快速帮助检查器";
+
+
+"Remove from Recent Projects" = "从近期项目中移除";
+
+
+"Remove from Recent Projects" = "Remove from Recent Projects";
+
+/* Settings - Reopen Behavior */
+"Reopen Behavior" = "重新打开行为";
+
+
+"Show in Finder" = "在访达中显示";
+
+
+"Show in Finder" = "Show in Finder";
+
+/* Welcome Screen - SCM */
+"Start working on something from a Git repository" = "从 Git 仓库开始工作";
+
+
+"System" = "系统";
+
+
+"System Default" = "系统默认";
+
+
+"System Font" = "系统字体";
+
+/* Settings - Terminal Tab */
+"Terminal" = "终端";
+
+/* Settings - Terminal Font */
+"Terminal Font" = "终端字体";
+
+/* Settings - Terminal Shell Type */
+"Terminal Shell" = "终端命令行界面";
+
+
+"Version %@ (%@)" = "版本 %@ (%@)";
+
+
+"Welcome Screen" = "欢迎界面";
+
+/* Welcome Screen */
+"Welcome to CodeEdit" = "Welcome to CodeEdit";
